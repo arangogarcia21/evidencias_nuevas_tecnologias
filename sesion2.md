@@ -125,9 +125,6 @@ print(f"La suma de los números es: {suma}")
 
 ```
 
-## Crea un repositorio local y resuelve los siguientes ejercicios para practicar bucles while y for:
-## for
-
 ## Solicita al usuario una lista de números e imprime cuántos de ellos son pares.
 
 ## Punto 2:
@@ -142,9 +139,6 @@ for numero in numeros:
 print(f"La cantidad de números pares en la lista es: {cantidad_pares}")
 
 ```
-
-## Crea un repositorio local y resuelve los siguientes ejercicios para practicar bucles while y for:
-## for
 
 ## Solicita al usuario un número y muestra su tabla de multiplicar usando range().
 
@@ -161,8 +155,6 @@ for i in range(1, 11):
 
 ```
 
-## Crea un repositorio local y resuelve los siguientes ejercicios para practicar bucles while y for:
-## for
 
 ## Solicita al usuario un número e imprime los números pares desde 2 hasta ese número.
 
@@ -175,9 +167,6 @@ for i in range(2, numero_limite + 1, 2):
 
 
 ```
-
-## Crea un repositorio local y resuelve los siguientes ejercicios para practicar bucles while y for:
-## for
 
 ## Solicita al usuario un número y muestra la secuencia de números pares desde 2 hasta ese número.
 
